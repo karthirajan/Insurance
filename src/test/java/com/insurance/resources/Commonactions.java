@@ -1,4 +1,4 @@
-package com.centric.resources;
+package com.insurance.resources;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.NoSuchElementException;
